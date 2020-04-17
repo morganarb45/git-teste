@@ -1,0 +1,25 @@
+{
+  "name": "morganinha",
+  "version": "1.0.0",
+  "description": "tarefa do joedio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morganarb45/git-teste.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Morgana Boza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morganarb45/git-teste/issues"
+  },
+  "homepage": "https://github.com/morganarb45/git-teste#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
